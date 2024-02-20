@@ -73,7 +73,7 @@ import cv2
 
 
 # Load the image
-image = cv2.imread('Prueba Lab1.bmp')
+image = cv2.imread('Test2.bmp')
 
 # Convert the image to cells
 cells = convert_image_to_cells(image, cell_size=4)
